@@ -1,7 +1,0 @@
-[submodule "pre-work"]
-	path = pre-work
-	url = https://github.com/Iskandar-S/Pre-work.git
-[submodule "JavaScript30"]
-	path = JavaScript30
-	url = https://github.com/Iskandar-S/JavaScript30
-	
