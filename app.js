@@ -1,4 +1,5 @@
-alert('Open console in DevTools to play the game. Press F12 or right-click -> "Inspect"')
+alert(`Open the Console panel to play the game.
+Press Control+Shift+J or Command+Option+J (Mac)`);
 
 const playerHull = document.querySelector('#playerHull');
 const enemyHull = document.querySelector('#enemyHull');
